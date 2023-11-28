@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently CS student who work like hel* day and night
+- 🌱 Learning:
+  - Deep Learning on Traditional Chinese Medicine (OMG)
+  - beginner on game programming in Unity (fun ha?)
+- 🤔 What I think about my degree: 90% theory, 10% coding (yay)
+
