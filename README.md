@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently CS student who work like yay day and night
 - 🌱 Learning:
-  - Machine Learning on Traditional Chinese Medicine
+  - Machine Learning on EEG signal for imagined speech detection
   - beginner on game programming in Unity (fun ha?)
   - beginner on app writing in javaScript
 - 🤔 What I think about my degree: 5% theory, 5% coding (yay), 90% ask google (and chat gpt) by yourself (kidding 😃)
@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 Past Projects 🚀
 - game coding by verilog on FPGA (why did I do that???)
 - very naive stock analysing program
+- very simple neural network model for machine learning on Traditional Chinese Medicine
 
