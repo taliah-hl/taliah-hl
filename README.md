@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently CS student who work like hel* day and night
+- 🔭 I’m currently CS student who work like yay day and night
 - 🌱 Learning:
-  - Deep Learning on Traditional Chinese Medicine (OMG)
+  - Machine Learning on Traditional Chinese Medicine
   - beginner on game programming in Unity (fun ha?)
-  - beginner on app writing in javascript
-- 🤔 What I think about my degree: 90% theory, 10% coding (yay)
+  - beginner on app writing in javaScript
+- 🤔 What I think about my degree: 5% theory, 5% coding (yay), 90% ask google (and chat gpt) by yourself (kidding 😃)
 
-Past Projects
-game coding by verilog on FPGA (why do I do that???)
-very naive stock analysing program
+Past Projects 🚀
+- game coding by verilog on FPGA (why did I do that???)
+- very naive stock analysing program
 
