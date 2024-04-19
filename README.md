@@ -22,8 +22,13 @@ Here are some ideas to get you started:
   - beginner on app writing in javaScript
 - 🤔 What I think about my degree: 5% theory, 5% coding (yay), 90% ask google (and chat gpt) by yourself (kidding 😃)
 
+Current Project ✨
+- speech decoding from brain wave (EEG / MEG)
+  
 Past Projects 🚀
-- game coding by verilog on FPGA (why did I do that???)
+- Flutter! - 2D platformer game to fultter gravity!
 - very naive stock analysing program
 - very simple neural network model for machine learning on Traditional Chinese Medicine
+- game coding by verilog on FPGA (why did I do that???)
+  
 
